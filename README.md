@@ -278,7 +278,7 @@ Worked on:
 
 📧 [harsh1283yadav@gmail.com](mailto:harsh1283yadav@gmail.com)
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
+💼 LinkedIn: <link>https://www.linkedin.com/in/harsh-yadav-129511259/</link>
 
 ---
 
