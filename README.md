@@ -1,129 +1,215 @@
-<h1 align="center">Hi 👋, I'm Harsh Yadav</h1>
-<h3 align="center">AI & Robotics Engineer | Computer Vision | Physical AI | Embedded Systems</h3>
+<div align="center">
 
-<p align="center">
-Building intelligent robotic systems using AI, ROS2, Computer Vision, and Edge Devices.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=Harsh%20Yadav&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=AI%20%26%20Robotics%20Engineer&descAlignY=85&descSize=16&descColor=aaaaaa" width="100%"/>
 
----
+</div>
 
-## 🚀 About Me
+<br>
 
-- 🤖 Robotics Software Engineer focused on **Physical AI**
-- 🧠 Building AI-powered robotic perception systems
-- 👁️ Working with **Computer Vision, VLMs, ROS2, Edge AI**
-- ⚡ Love combining **AI + Robotics + Embedded Systems**
-- 🛠️ Currently building:
-  - VIS-R (Vision-Language Robotic System)
-  - AI Robot Assistant (Chotu)
-  - Edge AI Perception Systems
+<div align="center">
+
+**Computer Vision &nbsp;·&nbsp; Physical AI &nbsp;·&nbsp; Embedded Systems &nbsp;·&nbsp; AI Health Systems**
+
+*Building intelligent systems that understand, reason, and interact with the physical world.*
+
+</div>
 
 ---
 
-## 🧠 Tech Stack
+## ◈ Engineering Focus
 
-### Languages
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
-![MicroPython](https://img.shields.io/badge/MicroPython-black?style=for-the-badge)
+```python
+class HarshYadav:
 
-### AI / Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv)
-![YOLO](https://img.shields.io/badge/YOLOv8-black?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-black?style=for-the-badge)
+    role     = "Robotics Software Engineer"
+    location = "Mumbai, India"
+    open_to  = ["Physical AI", "Computer Vision", "Edge AI", "Robotics", "AI Health Tech"]
 
-### Robotics & Embedded
-![ROS2](https://img.shields.io/badge/ROS2-black?style=for-the-badge&logo=ros)
-![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
-![RaspberryPi](https://img.shields.io/badge/RaspberryPi-black?style=for-the-badge&logo=raspberrypi)
-![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino)
+    domains = {
+        "Robotics"          : ["ROS2", "Robot Perception", "Autonomous Systems", "Human-Robot Interaction"],
+        "Computer_Vision"   : ["YOLOv8", "VLMs", "MediaPipe", "Real-Time Inference"],
+        "Embedded_Systems"  : ["ESP32", "Raspberry Pi", "RTOS", "Sensor Integration"],
+        "AI_Health_Systems" : ["Medical OCR", "Clinical NLP", "PDF Parsing", "Health Analytics"],
+    }
 
-### Tools
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+    currently_building = [
+        "VIS-R v3       →  Vision-Language Robotic Perception System",
+        "DASAI MOCHI    →  Portable ESP32 AI Companion Device",
+        "NutriSense+    →  AI Health Report Analyzer & Diet Planner",
+    ]
+```
 
 ---
 
-# 🧩 Featured Projects
+## ◈ Tech Stack
 
-## 🤖 VIS-R — Vision Language Robotic System
-AI robotic perception system integrating:
-- YOLOv8
-- LLaVA / Moondream VLMs
-- ROS2 robot control
-- Flask dashboard
-- Real-time contextual scene understanding
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-0f0f0f?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0f0f0f?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-0f0f0f?style=for-the-badge&logo=c&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-0f0f0f?style=for-the-badge&logoColor=white)
 
-## 🧠 AI Desk Buddy (Chotu)
-ESP32-powered AI companion robot featuring:
-- OLED animated expressions
-- Voice interaction
-- Touch & gesture sensing
-- Gemini API conversational AI
-- Emotion-based interactions
+**AI / Computer Vision**
 
----
+![OpenCV](https://img.shields.io/badge/OpenCV-0f0f0f?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-0f0f0f?style=for-the-badge&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0f0f0f?style=for-the-badge&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0f0f0f?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-0f0f0f?style=for-the-badge&logo=intel&logoColor=white)
 
-## 🚗 Smart Driver Monitoring System
-Computer vision safety system detecting:
-- Drowsiness
-- Smoking
-- Phone usage
-- Driver distraction
+**Robotics & Embedded**
 
-Integrated with:
-- ESP32 IoT alerts
-- Telegram notifications
-- Voice warnings
-- Auto evidence capture
+![ROS2](https://img.shields.io/badge/ROS2-0f0f0f?style=for-the-badge&logo=ros&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-0f0f0f?style=for-the-badge&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0f0f0f?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-0f0f0f?style=for-the-badge&logo=arduino&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0f0f0f?style=for-the-badge&logoColor=white)
 
----
+**AI Health & Backend**
 
-## 📊 GitHub Stats
+![Flask](https://img.shields.io/badge/Flask-0f0f0f?style=for-the-badge&logo=flask&logoColor=white)
+![PDF Parsing](https://img.shields.io/badge/PDF%20Parsing-0f0f0f?style=for-the-badge&logoColor=white)
+![OCR](https://img.shields.io/badge/Medical%20OCR-0f0f0f?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/Clinical%20NLP-0f0f0f?style=for-the-badge&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+**Tools & Platforms**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+![Linux](https://img.shields.io/badge/Linux-0f0f0f?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0f0f0f?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0f0f0f?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🌌 Current Focus
+## ◈ Featured Projects
 
-- Vision Language Models (VLMs)
-- Physical AI
-- Autonomous Robotics
-- Edge AI Systems
-- Reinforcement Learning for Robotics
-- ROS2-based AI Architectures
+<br>
 
----
+### 👁️ VIS-R v3 — Vision-Language Robotic Perception System
 
-## 🏆 Achievements
+> Real-time AI perception platform combining object detection and visual reasoning.
 
-- 🚀 Top 100 Startups — WHEF Launchpad
-- 🛰️ Presented at CosmicFest judged by ISRO Scientists
-- 🤖 Robotics + AI Engineering Projects
-- 🎥 AI & Robotics Tech Creator
+- **YOLOv8** object detection + **dual VLM workers** (Moondream2 fast · LLaVA deep)
+- Flask MJPEG streaming server with dark robotics dashboard
+- Face detection via Haar cascades · Model toggle (fast / deep / auto)
+- Runs locally on RTX 3050 6GB · Ubuntu 22.04
+
+`Python` `YOLOv8` `LLaVA` `Moondream2` `Flask` `OpenCV` `ROS2`
 
 ---
 
-## 📫 Connect With Me
+### 🚗 Driver Drowsiness Detection System
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-- 📧 Email: harsh1283yadav@gmail.com
+> Real-time driver monitoring system for road safety — Semester 6 major project.
+
+- **MediaPipe** facial landmark analysis for drowsiness scoring
+- **YOLOv8** custom model for smoking & phone usage detection
+- **ESP32** hardware alert system with TTS voice warnings
+- Telegram IoT notifications · Auto evidence capture
+
+`Python 3.11` `MediaPipe` `YOLOv8` `ESP32` `OpenCV` `TTS`
 
 ---
 
-<p align="center">
-⚡ "Building the future where AI can interact with the physical world."
-</p>
+### 🤖 AI Desk Buddy — ESP32-C3 AI Companion
+
+> Compact AI companion device with real conversational intelligence and animated expressions.
+
+- **Gemini API** integration over WiFi (AP+STA mode)
+- **SSD1306 OLED** with 9 animated mood states · **MAX98357A I2S** audio
+- Cyberpunk web UI with browser speech recognition
+
+`C++` `ESP32-C3` `Gemini API` `FreeRTOS` `I2S Audio` `SSD1306`
+
+---
+
+### 📡 SPARSH — Spectrum Pollution Analysis & RFI Segregation Hub
+
+> RFI detection system presented at CosmicFest 2026 — judged by ISRO scientists at Nehru Science Center.
+
+- ESP32 + BAT43/LM358 RF detector + TV antenna hardware stack
+- 7-panel real-time Python dashboard
+- **Random Forest + Isolation Forest** ML classifier · Demo simulation mode
+
+`Python` `ESP32` `scikit-learn` `RF Engineering` `Matplotlib`
+
+---
+
+## ◈ AI Health Systems
+
+> *A focused track of projects applying AI to clinical data, medical reports, and personal health — bridging the gap between raw medical information and actionable insights.*
+
+<br>
+
+### 🩺 NutriSense+ — AI Health Report Analyzer & Diet Planner &nbsp;`Aug – Sep 2025`
+
+> Flask web app that reads your medical PDF and turns raw lab data into a personalized health action plan.
+
+- Extracts **Heart Rate, SpO2, and key vitals** from uploaded medical PDFs
+- Generates **personalized diet plans** based on extracted clinical markers
+- **Clinical risk summaries** with vitals trend dashboard
+- Downloadable reports for patient records
+- Co-built with Himanshu Sharma & Shraddha Yadav · IEEE-formatted paper authored
+
+`Python` `Flask` `PDF Parsing` `NLP` `Health Analytics` `IEEE Research`
+
+---
+
+### 💊 Medikal — AI Medical Report & Prescription Platform &nbsp;`2025`
+
+> Two-module clinical AI platform that transforms how patients and doctors interact with medical documents.
+
+**Module 1 — MediSynth Nexus (Report Summarizer)**
+- Processes complex diagnostic reports into clear, patient-friendly summaries
+- Clinical NLP pipeline for terminology simplification
+
+**Module 2 — Medibot Prescription Scanner (OCR Engine)**
+- Extracts medication names, dosages, and schedules from **handwritten and printed prescriptions**
+- Handles low-quality scans · Outputs structured medication data
+
+> 💡 This project directly led to my current internship offer at Blackhole Infiverse LLP.
+
+`Python` `Medical OCR` `Clinical NLP` `Flask` `Transformers` `PDF Processing`
+
+---
+
+## ◈ Experience
+
+**Robotics Software Engineer Intern** &nbsp;|&nbsp; Blackhole Infiverse LLP, Goregaon, Mumbai
+
+- RL-based robotic navigation systems
+- ROS2 communication and perception pipelines
+- AI perception pipeline development · Embedded robotic control
+
+---
+
+## ◈ Achievements
+
+- 🚀 **Top 100 Startups** — WHEF Launchpad
+- 🛰️ **CosmicFest 2026** — Presented SPARSH to ISRO-scientist jury at Nehru Science Center, Mumbai
+- 💼 **Medikal** — Project directly earned internship offer
+- 🎥 **YouTube Creator** — Hindi/Hinglish AI & Robotics content for Indian engineering students
+
+---
+
+## ◈ Areas of Interest
+
+`Physical AI` &nbsp; `Autonomous Robotics` &nbsp; `Vision-Language Models` &nbsp; `Edge AI` &nbsp; `AI Health Tech` &nbsp; `RL for Robotics` &nbsp; `Human-Robot Interaction`
+
+---
+
+## ◈ Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh1283yadav@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f0f0f?style=for-the-badge&logo=vercel&logoColor=white)](https://harshyadav.dev)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
+
+<sub>📍 Mumbai &nbsp;·&nbsp; Open to Robotics / CV / Edge AI / AI Health roles (June 2026) &nbsp;·&nbsp; Currently @ Blackhole Infiverse LLP</sub>
+
+</div>
