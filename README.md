@@ -275,13 +275,13 @@ Worked on:
 ---
 
 # Connect
+<p align="center">
 
-📧 [harsh1283yadav@gmail.com](mailto:harsh1283yadav@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Yadav-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harsh-yadav-129511259/)
 
-💼 LinkedIn: <a href ="https://www.linkedin.com/in/harsh-yadav-129511259/"> Linkedin Profile </a>
+[![Email](https://img.shields.io/badge/Email-harsh1283yadav%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harsh1283yadav@gmail.com)
 
----
-
+</p>
 <div align="center">
 
 ### "Engineering intelligent systems for both physical and digital worlds."
